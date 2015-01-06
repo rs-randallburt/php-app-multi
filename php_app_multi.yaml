@@ -205,7 +205,7 @@ parameters:
     label: Kitchen URL
     description: URL for the kitchen to use
     type: string
-    default: https://github.com/rackspace-orchestration-templates/php-app-multi
+    default: https://github.com/rs-randallburt/php-app-multi
 
   chef_version:
     label: Chef Version
